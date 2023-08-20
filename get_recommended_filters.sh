@@ -7,6 +7,7 @@ touch input.csv
 urls=(
   https://abpvn.com/vip/lietkhanhminh01.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  https://adaway.org/hosts.txt
 )
 
 # loop through the urls and download each file with curl
