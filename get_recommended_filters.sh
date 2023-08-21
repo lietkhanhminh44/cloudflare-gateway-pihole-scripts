@@ -10,7 +10,6 @@ urls=(
   https://abpvn.com/android/abpvn.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
-  https://raw.githubusercontent.com/lietkhanhminh44/block/main/blocklist.txt
 )
 
 # loop through the urls and download each file with curl
